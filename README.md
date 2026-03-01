@@ -3,9 +3,8 @@
 
 An interactive deep-dive into each of the seven seniors who make up Coach Yo's transfer portal class. Where Viz 1 tells the collective story, this piece gives every player her own chapter.
 
-**[View Live →](YOUR_VIZ2_GITHUB_PAGES_LINK_HERE)**
-
 ← Start with **[Viz 2: How Coach Yo Built a Program Through the Portal →](https://theblacktechie.github.io/olemisswbbseniorday2/)**
+<br>
 ← Go back to **[Viz 1: How Coach Yo Built a Program Through the Portal →](https://theblacktechie.github.io/olemisswbbseniorday1/)**
 
 ---
